@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutterblogapp/views/views.dart';
+import 'package:flutterblogapp/services/crud.dart';
 
 class Home extends StatefulWidget {
   @override
@@ -7,6 +8,8 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
+  CrudMethods crudMethods = new CrudMethods();
+  Stream blogStream;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
