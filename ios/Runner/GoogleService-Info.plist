@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>337222121649-orudpvpjrdhen5hjdlvjc5ci8cjqq89r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.337222121649-orudpvpjrdhen5hjdlvjc5ci8cjqq89r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBE-HkV9INPgNSs92_3RxjbeWGUYGtS8UQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>337222121649</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.amayaka.flutterblogapp</string>
+	<key>PROJECT_ID</key>
+	<string>simpleblog-38e20</string>
+	<key>STORAGE_BUCKET</key>
+	<string>simpleblog-38e20.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:337222121649:ios:d78c0b0b2e98b4dd5bca90</string>
+	<key>DATABASE_URL</key>
+	<string>https://simpleblog-38e20.firebaseio.com</string>
+</dict>
+</plist>

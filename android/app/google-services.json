@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "337222121649",
+    "firebase_url": "https://simpleblog-38e20.firebaseio.com",
+    "project_id": "simpleblog-38e20",
+    "storage_bucket": "simpleblog-38e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337222121649:android:b7d49e28d2eda77f5bca90",
+        "android_client_info": {
+          "package_name": "com.amayaka.flutterblogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337222121649-5l1qaurar5v1massvd9lrju9sqshinam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt290VBSTsuKN-EhvNqMBtOb9D5Cg-y0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337222121649-5l1qaurar5v1massvd9lrju9sqshinam.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "337222121649-orudpvpjrdhen5hjdlvjc5ci8cjqq89r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amayaka.flutterblogapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
