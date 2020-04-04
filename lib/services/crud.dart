@@ -8,7 +8,7 @@ class CrudMethods{
       print(e);
     });
   }
-  getData() async {
-    return await Firestore.instance.collection("blogs").snapshots();
+  Future<QuerySnapshot>getData() async {
+    return await Firestore.instance.collection("blogs").getDocuments();
   }
 }
